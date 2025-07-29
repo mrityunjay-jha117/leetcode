@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
