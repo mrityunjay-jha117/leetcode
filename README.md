@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
 | [0386-lexicographical-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrityunjay-jha117/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrityunjay-jha117/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mrityunjay-jha117/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -99,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/0233-number-of-digit-one) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
