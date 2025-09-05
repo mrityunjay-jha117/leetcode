@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrityunjay-jha117/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrityunjay-jha117/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mrityunjay-jha117/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -115,8 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mrityunjay-jha117/leetcode/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
