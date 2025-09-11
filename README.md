@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
 | [0386-lexicographical-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Trie
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
 ## Union Find
 |  |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
