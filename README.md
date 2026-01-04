@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay-jha117/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mrityunjay-jha117/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mrityunjay-jha117/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3637-trionic-array-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3637-trionic-array-i) |
+| [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mrityunjay-jha117/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
+| [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Memoization
 |  |
 | ------- |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 <!---LeetCode Topics End-->
