@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3639-minimum-time-to-activate-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3639-minimum-time-to-activate-string) |
+| [3640-trionic-array-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
 | [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
+| [3640-trionic-array-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3640-trionic-array-ii) |
 ## Memoization
 |  |
 | ------- |
