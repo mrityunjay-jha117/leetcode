@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1057-numbers-with-repeated-digits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mrityunjay-jha117/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/mrityunjay-jha117/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/0233-number-of-digit-one) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/mrityunjay-jha117/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
