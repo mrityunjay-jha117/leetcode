@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mrityunjay-jha117/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3453-separate-squares-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3454-separate-squares-ii) |
 | [3637-trionic-array-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3639-minimum-time-to-activate-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3639-minimum-time-to-activate-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3453-separate-squares-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3454-separate-squares-ii) |
 | [3639-minimum-time-to-activate-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3639-minimum-time-to-activate-string) |
 ## Sliding Window
 |  |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
