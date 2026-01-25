@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mrityunjay-jha117/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Monotonic Stack
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
