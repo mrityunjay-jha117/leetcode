@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrityunjay-jha117/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mrityunjay-jha117/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrityunjay-jha117/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/mrityunjay-jha117/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mrityunjay-jha117/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3453-separate-squares-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3454-separate-squares-ii) |
