@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mrityunjay-jha117/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/mrityunjay-jha117/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mrityunjay-jha117/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mrityunjay-jha117/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3453-separate-squares-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3453-separate-squares-i) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Sorting
 |  |
 | ------- |
