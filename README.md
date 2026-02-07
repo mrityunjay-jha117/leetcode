@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/mrityunjay-jha117/leetcode/tree/master/0115-distinct-subsequences) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrityunjay-jha117/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/mrityunjay-jha117/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay-jha117/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrityunjay-jha117/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/mrityunjay-jha117/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Greedy
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1057-numbers-with-repeated-digits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1170-shortest-common-supersequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mrityunjay-jha117/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/mrityunjay-jha117/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
