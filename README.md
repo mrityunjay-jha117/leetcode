@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrityunjay-jha117/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrityunjay-jha117/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mrityunjay-jha117/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
