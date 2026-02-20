@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay-jha117/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mrityunjay-jha117/leetcode/tree/master/0115-distinct-subsequences) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrityunjay-jha117/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
 | [1170-shortest-common-supersequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mrityunjay-jha117/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/mrityunjay-jha117/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
 ## Tree
 |  |
 | ------- |
