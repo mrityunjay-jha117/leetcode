@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrityunjay-jha117/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrityunjay-jha117/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/mrityunjay-jha117/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mrityunjay-jha117/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/mrityunjay-jha117/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mrityunjay-jha117/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -253,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mrityunjay-jha117/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/mrityunjay-jha117/leetcode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
