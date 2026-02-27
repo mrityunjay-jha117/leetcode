@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mrityunjay-jha117/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mrityunjay-jha117/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/mrityunjay-jha117/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Dynamic Programming
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/mrityunjay-jha117/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mrityunjay-jha117/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
