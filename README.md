@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/0233-number-of-digit-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mrityunjay-jha117/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1057-numbers-with-repeated-digits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1057-numbers-with-repeated-digits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mrityunjay-jha117/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mrityunjay-jha117/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -263,10 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/mrityunjay-jha117/leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Union-Find
 |  |
 | ------- |
