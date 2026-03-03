@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
 | [1170-shortest-common-supersequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mrityunjay-jha117/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/0233-number-of-digit-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/mrityunjay-jha117/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Breadth-First Search
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Union-Find
 |  |
