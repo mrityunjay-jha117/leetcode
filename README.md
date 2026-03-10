@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Counting
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3640-trionic-array-ii) |
