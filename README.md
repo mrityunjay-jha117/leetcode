@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3639-minimum-time-to-activate-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3639-minimum-time-to-activate-string) |
 | [3640-trionic-array-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/mrityunjay-jha117/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mrityunjay-jha117/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/mrityunjay-jha117/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
 |  |
 | ------- |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Two Pointers
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/mrityunjay-jha117/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
