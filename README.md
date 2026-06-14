@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mrityunjay-jha117/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrityunjay-jha117/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/mrityunjay-jha117/leetcode/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrityunjay-jha117/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mrityunjay-jha117/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrityunjay-jha117/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
