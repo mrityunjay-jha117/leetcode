@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrityunjay-jha117/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrityunjay-jha117/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrityunjay-jha117/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -313,5 +314,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0283-move-zeroes) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mrityunjay-jha117/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
