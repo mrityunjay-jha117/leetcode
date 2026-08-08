@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mrityunjay-jha117/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrityunjay-jha117/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mrityunjay-jha117/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Heap (Priority Queue)
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3638-maximum-balanced-shipments](https://github.com/mrityunjay-jha117/leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3640-trionic-array-ii) |
 ## Memoization
@@ -316,5 +319,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0283-move-zeroes) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mrityunjay-jha117/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
