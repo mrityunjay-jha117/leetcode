@@ -334,5 +334,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/mrityunjay-jha117/leetcode/tree/master/0610-triangle-judgement) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mrityunjay-jha117/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
