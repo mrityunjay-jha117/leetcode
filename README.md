@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/mrityunjay-jha117/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/0233-number-of-digit-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/mrityunjay-jha117/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -195,10 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/0002-add-two-numbers) |
 | [0233-number-of-digit-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/0233-number-of-digit-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/mrityunjay-jha117/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
