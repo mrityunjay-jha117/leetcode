@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-minimum-time-to-activate-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3639-minimum-time-to-activate-string) |
 | [3640-trionic-array-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mrityunjay-jha117/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mrityunjay-jha117/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mrityunjay-jha117/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mrityunjay-jha117/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Counting
 |  |
 | ------- |
