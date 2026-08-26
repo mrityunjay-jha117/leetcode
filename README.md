@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/mrityunjay-jha117/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mrityunjay-jha117/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -348,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/mrityunjay-jha117/leetcode/tree/master/0626-exchange-seats) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/mrityunjay-jha117/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mrityunjay-jha117/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
