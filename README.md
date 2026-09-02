@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/mrityunjay-jha117/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/mrityunjay-jha117/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrityunjay-jha117/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/mrityunjay-jha117/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
