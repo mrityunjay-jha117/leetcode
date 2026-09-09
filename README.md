@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mrityunjay-jha117/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mrityunjay-jha117/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/mrityunjay-jha117/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/mrityunjay-jha117/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mrityunjay-jha117/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mrityunjay-jha117/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mrityunjay-jha117/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrityunjay-jha117/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mrityunjay-jha117/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/mrityunjay-jha117/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3453-separate-squares-i) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mrityunjay-jha117/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mrityunjay-jha117/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mrityunjay-jha117/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
