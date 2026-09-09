@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mrityunjay-jha117/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay-jha117/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mrityunjay-jha117/leetcode/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrityunjay-jha117/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
 | [1170-shortest-common-supersequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrityunjay-jha117/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/mrityunjay-jha117/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/mrityunjay-jha117/leetcode/tree/master/0233-number-of-digit-one) |
+| [0392-is-subsequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/0392-is-subsequence) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/mrityunjay-jha117/leetcode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrityunjay-jha117/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0790-domino-and-tromino-tiling](https://github.com/mrityunjay-jha117/leetcode/tree/master/0790-domino-and-tromino-tiling) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/mrityunjay-jha117/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph Theory
