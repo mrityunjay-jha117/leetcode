@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mrityunjay-jha117/leetcode/tree/master/0242-valid-anagram) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/mrityunjay-jha117/leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mrityunjay-jha117/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mrityunjay-jha117/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/mrityunjay-jha117/leetcode/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/mrityunjay-jha117/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrityunjay-jha117/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mrityunjay-jha117/leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/mrityunjay-jha117/leetcode/tree/master/0242-valid-anagram) |
 | [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/mrityunjay-jha117/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
