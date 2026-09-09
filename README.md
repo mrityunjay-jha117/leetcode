@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mrityunjay-jha117/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mrityunjay-jha117/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay-jha117/leetcode/tree/master/0042-trapping-rain-water) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mrityunjay-jha117/leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0148-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mrityunjay-jha117/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mrityunjay-jha117/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/mrityunjay-jha117/leetcode/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/mrityunjay-jha117/leetcode/tree/master/0148-sort-list) |
