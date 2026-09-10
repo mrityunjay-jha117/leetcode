@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mrityunjay-jha117/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrityunjay-jha117/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mrityunjay-jha117/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mrityunjay-jha117/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/mrityunjay-jha117/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mrityunjay-jha117/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0790-domino-and-tromino-tiling](https://github.com/mrityunjay-jha117/leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/mrityunjay-jha117/leetcode/tree/master/0799-champagne-tower) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mrityunjay-jha117/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1057-numbers-with-repeated-digits](https://github.com/mrityunjay-jha117/leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1170-shortest-common-supersequence](https://github.com/mrityunjay-jha117/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mrityunjay-jha117/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/mrityunjay-jha117/leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0761-special-binary-string](https://github.com/mrityunjay-jha117/leetcode/tree/master/0761-special-binary-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mrityunjay-jha117/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Tree
 |  |
@@ -396,4 +399,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mrityunjay-jha117/leetcode/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mrityunjay-jha117/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mrityunjay-jha117/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
