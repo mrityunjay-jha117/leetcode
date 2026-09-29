@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/mrityunjay-jha117/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mrityunjay-jha117/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/mrityunjay-jha117/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mrityunjay-jha117/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mrityunjay-jha117/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2757-count-of-integers](https://github.com/mrityunjay-jha117/leetcode/tree/master/2757-count-of-integers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mrityunjay-jha117/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -383,10 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mrityunjay-jha117/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mrityunjay-jha117/leetcode/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mrityunjay-jha117/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Database
 |  |
 | ------- |
@@ -414,4 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mrityunjay-jha117/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mrityunjay-jha117/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/mrityunjay-jha117/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
